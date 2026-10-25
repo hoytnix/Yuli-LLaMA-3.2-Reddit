@@ -1,0 +1,70 @@
+Business Source License 1.1 (BSL-1.1)
+
+Parameters:
+  Licensor:                      Michael Scott Hoyt
+  Licensed Work:                 Yuli Model Weights, Checkpoints, LoRA Adapters,
+                                 GGUF Binaries, and Accompanying Runtime Code —
+                                 including Yuli-E2B, Yuli-LLaMA-3.2-Reddit-1B, and
+                                 Yuli-LLaMA-3.2-Reddit-3B
+  Change Date:                   September 1, 2030
+  Change License:                Apache License, Version 2.0
+  Commercial Contact:            mike@tehwiz.com
+
+================================================================================
+GRANT OF LICENSE
+================================================================================
+The Licensor hereby grants You the right to copy, modify, create derivative works,
+redistribute, and use the Licensed Work, subject to the terms and restrictions below.
+
+================================================================================
+ADDITIONAL USE GRANT (THE $30,000 THRESHOLD)
+================================================================================
+You may use the Licensed Work (including in compiled games, interactive media,
+applications, and autonomous agents) free of charge, PROVIDED THAT:
+
+1. Gross Revenue Threshold:
+   The aggregate gross revenue, funding, or capital raised by You, Your organization,
+   and all related affiliates across any and all products, services, games, or media
+   incorporating, fine-tuned from, or directly querying the Licensed Work does NOT
+   exceed Thirty Thousand United States Dollars ($30,000 USD) in gross annual
+   revenue from the Licensed Work / code.
+
+2. Non-Commercial, Academic & Hobbyist Exemption:
+   Personal research, educational instruction, open-source hobbyist game modding,
+   and non-monetized exploratory projects are granted unrestricted free usage.
+
+================================================================================
+COMMERCIAL LICENSE REQUIREMENT
+================================================================================
+If You make over $30,000 USD from the code, You must pay $1,500 USD per year
+while the Licensed Work is in production. Your right to use, distribute, or run
+the Licensed Work in production is subject to that $1,500/year production
+license being in place.
+
+To secure a Commercial Production License, contact:
+mike@tehwiz.com
+
+================================================================================
+DERIVATIVE WORKS & FINE-TUNES
+================================================================================
+Any fine-tunes, distilled models, merged checkpoints, quantized GGUF/EXL2 builds,
+or parameter adapters derived directly from the Licensed Work inherit this License
+and remain subject to the $30,000 revenue boundary and the $1,500/year production
+license above. You may not re-license derivatives under a more permissive
+open-source license prior to the Change Date.
+
+================================================================================
+CHANGE DATE (CONVERSION TO APACHE 2.0)
+================================================================================
+On the Change Date specified above, this License shall automatically convert to
+the Apache License, Version 2.0, without further action by either party.
+
+================================================================================
+DISCLAIMER OF WARRANTY
+================================================================================
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK.
+
